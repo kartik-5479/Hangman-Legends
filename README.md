@@ -12,7 +12,7 @@
 
 ## 🌐 Play Hangman Legends Online
 
-### **🔗 https://hangman-legends-cvemhqrn8sxio5rc74xtac.streamlit.app**
+### **🔗 https://hangman-legends-r2srtpxkuybvdouzcwthmo.streamlit.app/**
 
 <a href="https://hangman-legends-cvemhqrn8sxio5rc74xtac.streamlit.app" target="_blank">
 <img src="https://img.shields.io/badge/🎮%20Play%20Now-Hangman%20Legends-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
