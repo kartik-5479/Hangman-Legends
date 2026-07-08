@@ -1,0 +1,36 @@
+{
+  "highest_scores": [
+    {
+      "score": 450,
+      "word": "PIZZA",
+      "category": "Food",
+      "difficulty": "Easy",
+      "date": "2026-07-08 16:44"
+    },
+    {
+      "score": 407,
+      "word": "BUG",
+      "category": "Programming",
+      "difficulty": "Easy",
+      "date": "2026-07-08 16:43"
+    }
+  ],
+  "fastest_times": [
+    {
+      "seconds": 14,
+      "word": "PIZZA",
+      "category": "Food",
+      "difficulty": "Easy",
+      "date": "2026-07-08 16:44"
+    },
+    {
+      "seconds": 19,
+      "word": "BUG",
+      "category": "Programming",
+      "difficulty": "Easy",
+      "date": "2026-07-08 16:43"
+    }
+  ],
+  "highest_streak": 2,
+  "daily_challenge": {}
+}

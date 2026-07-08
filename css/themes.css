@@ -1,0 +1,103 @@
+.theme-cyberpunk {
+  --bg0: #070817;
+  --bg1: #111b3d;
+  --cyan: #42f5e9;
+  --pink: #ff4db8;
+  --green: #68ff9d;
+  --gold: #ffd35a;
+}
+
+.theme-neon {
+  --bg0: #09050f;
+  --bg1: #291042;
+  --cyan: #2dffb9;
+  --pink: #ff2df1;
+  --green: #b8ff42;
+  --gold: #ffef72;
+}
+
+.theme-forest {
+  --bg0: #04120e;
+  --bg1: #15391f;
+  --cyan: #8fffe0;
+  --pink: #ff8d7d;
+  --green: #77ff8c;
+  --gold: #f4d06f;
+}
+
+.theme-galaxy {
+  --bg0: #08051b;
+  --bg1: #23125a;
+  --cyan: #8be9ff;
+  --pink: #d987ff;
+  --green: #7dffbd;
+  --gold: #ffe48b;
+}
+
+.theme-ocean {
+  --bg0: #031424;
+  --bg1: #063e5f;
+  --cyan: #68f7ff;
+  --pink: #ff8ab3;
+  --green: #82ffc4;
+  --gold: #ffe28c;
+}
+
+.theme-retro {
+  --bg0: #120916;
+  --bg1: #372212;
+  --cyan: #00e6ff;
+  --pink: #ff477e;
+  --green: #a7ff4f;
+  --gold: #ffbd45;
+}
+
+.theme-paper {
+  --bg0: #fff8e4;
+  --bg1: #b7e7df;
+  --panel: rgba(255, 255, 255, 0.58);
+  --panel-strong: rgba(255, 255, 255, 0.74);
+  --stroke: rgba(38, 62, 79, 0.22);
+  --text: #132332;
+  --muted: rgba(19, 35, 50, 0.7);
+  --cyan: #13c6b7;
+  --pink: #e84d7b;
+  --green: #1abf78;
+  --gold: #d69510;
+}
+
+.theme-light {
+  --bg0: #eef7ff;
+  --bg1: #d9fff4;
+  --panel: rgba(255, 255, 255, 0.62);
+  --panel-strong: rgba(255, 255, 255, 0.82);
+  --stroke: rgba(20, 45, 70, 0.2);
+  --text: #0d2035;
+  --muted: rgba(13, 32, 53, 0.66);
+  --cyan: #00bcd4;
+  --pink: #ec407a;
+  --green: #00b86b;
+  --gold: #d69b00;
+}
+
+.high-contrast {
+  --bg0: #000;
+  --bg1: #111;
+  --panel: rgba(0, 0, 0, 0.8);
+  --panel-strong: rgba(0, 0, 0, 0.92);
+  --stroke: rgba(255, 255, 255, 0.78);
+  --text: #fff;
+  --muted: #e6e6e6;
+  --cyan: #00ffff;
+  --pink: #ff66ff;
+  --green: #4dff4d;
+  --red: #ff4040;
+  --gold: #ffff66;
+}
+
+.colorblind {
+  --green: #00a6d6;
+  --red: #f5793a;
+  --pink: #a95aa1;
+  --gold: #f2c94c;
+}

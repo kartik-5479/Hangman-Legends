@@ -1,0 +1,6 @@
+CORRECT_LINES = ["Great job!", "Nice guess!", "Awesome!", "You found one!"]
+WRONG_LINES = ["Ouch!", "That's not correct.", "Try another letter.", "Nope, keep going!"]
+START_LINES = ["Welcome! Let's play Hangman.", "Ready for a word rescue?"]
+WIN_LINES = ["You solved it!", "Fantastic!", "Victory unlocked!"]
+LOSE_LINES = ["Better luck next time.", "The word escaped this round."]
+ONE_LIFE_LINES = ["Careful! One chance remaining."]

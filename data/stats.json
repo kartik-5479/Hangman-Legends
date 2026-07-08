@@ -1,0 +1,24 @@
+{
+  "games_played": 2,
+  "wins": 2,
+  "losses": 0,
+  "current_score": 450,
+  "highest_score": 450,
+  "correct_guesses": 7,
+  "wrong_guesses": 1,
+  "win_streak": 2,
+  "best_streak": 2,
+  "xp": 105,
+  "coins": 39,
+  "stars": 5,
+  "category_counts": {
+    "Programming": 1,
+    "Food": 1
+  },
+  "total_time": 33,
+  "achievements": [
+    "First Win",
+    "Perfect Game",
+    "Speed Runner"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "sound": true,
+  "voice": true,
+  "animations": true,
+  "volume": 70,
+  "default_difficulty": "Easy"
+}
